@@ -16,7 +16,7 @@ Ruby on RailsとEC　サイト開発を得意としています。
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ## 🏆 主な成果
-- 🚀 月間PV400万以上の大規模ECサイト開発をリード
+- 🚀 月間PV4000万以上の大規模ECサイト開発をリード
 - 💡 検索システムを改善し、年間1.8億円の取引増加に貢献
 
 ### 🌟 ハイライト
